@@ -20,7 +20,11 @@ pip3 install -r requirements.txt
 
 #### Usage
 ```
-usage: $ python3 pr.py <username>
+usage: $ python3 pr.py
+```
+after that enter the username you want to search
+```
+[+]Username: <username>
 ```
 
 #### Example Usage
